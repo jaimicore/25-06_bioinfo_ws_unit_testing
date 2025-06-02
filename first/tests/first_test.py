@@ -17,8 +17,8 @@ def test_greeting_default():
 def test_greeting_English():
     assert greeting("Jaime", "English") == "Hello Jaime!"
 
-def test_greeting_Norwegian()):
+def test_greeting_Norwegian():
     assert greeting("Jaime", "Norwegian") == "Hei Jaime!"
 
-def test_greeting_english()):
+def test_greeting_english():
     assert greeting("Jaime", "english") == "Hello Jaime!"
